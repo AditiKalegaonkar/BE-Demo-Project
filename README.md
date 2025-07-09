@@ -13,6 +13,10 @@ It uses Google's Gemini Pro via LangChain to retrieve relevant answers using vec
 ![Wagon Bot UI](images/image.png)
 
 
+https://github.com/user-attachments/assets/2979ee50-2e86-497d-9d39-a99cd3e94025
+
+
+
 ## Features
 - Upload any PDF and ask questions based on its content
 - Cross-analyzes user and system documents
